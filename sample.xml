@@ -1,0 +1,36 @@
+<recipes>
+    <recipe id="1">
+        <name>红烧秋刀鱼</name>
+        <cook>郑成方</cook>
+        <difficulty>87</difficulty>
+        <ingredients>
+            <ingredient type="major">秋刀鱼</ingredient>
+            <ingredient type="minor">大葱</ingredient>
+            <ingredient type="minor">白砂糖</ingredient>
+            <ingredient type="minor">酱油</ingredient>
+            <ingredient type="minor">盐</ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <decription>起锅烧油</description>
+                <timecost>00:03:00</timecost>
+            </step>
+            <step id="2">
+                <decription>下葱姜蒜爆香</description>
+                <timecost>00:00:30</timecost>
+            </step>
+            <step id="3">
+                <decription>下秋刀鱼</description>
+                <timecost>00:00:10</timecost>
+            </step>
+            <step id="4">
+                <decription>盖锅盖炖10分钟</description>
+                <timecost>00:10:00</timecost>
+            </step>
+            <step id="5">
+                <decription>出锅装盘</description>
+                <timecost>00:00:30</timecost>
+            </step>
+        </steps>
+    </recipe>
+</recipes>
