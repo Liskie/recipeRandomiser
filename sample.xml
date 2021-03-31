@@ -4,7 +4,10 @@
         <cook>郑成方</cook>
         <difficulty>87</difficulty>
         <ingredients>
-            <ingredient type="major">秋刀鱼</ingredient>
+            <ingredient type="major">
+                <name>秋刀鱼</name>
+                <quantity>1条</quantity>
+            </ingredient>
             <ingredient type="minor">大葱</ingredient>
             <ingredient type="minor">白砂糖</ingredient>
             <ingredient type="minor">酱油</ingredient>
@@ -33,4 +36,7 @@
             </step>
         </steps>
     </recipe>
+    <recipe>
 </recipes>
+
+div>ul>li
