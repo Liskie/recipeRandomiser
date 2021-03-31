@@ -1,0 +1,155 @@
+<recipes>
+    <recipe id="1">
+        <name>红烧肉</name>
+        <cook>郑成方</cook>
+        <difficulty>87</difficulty>
+        <ingredients>
+            <ingredient type="major">
+                <name>五花肉</name>
+                <quantity>500克</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>葱</name>
+                <quantity>食指长一段</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>姜</name>
+                <quantity>2-3片</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>八角</name>
+                <quantity>1颗</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>花椒</name>
+                <quantity>5-8粒</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>香叶</name>
+                <quantity>2-3片</quantity>
+            </ingredient>
+	          <ingredient type="minor">
+                <name>干辣椒</name>
+                <quantity>2-3个</quantity>
+            </ingredient>
+	          <ingredient type="minor">
+                <name>酱油</name>
+                <quantity>一锅铲</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>料酒</name>
+                <quantity>一锅铲</quantity>
+            </ingredient>
+	          <ingredient type="minor">
+                <name>冰糖</name>
+                <quantity>2-3颗</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <decription>五花肉改刀焯水</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:03:00</endtime>
+            </step>
+            <step id="2">
+                <decription>准备葱姜蒜和大料</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:03:00</endtime>
+            </step>
+            <step id="3">
+                <decription>捞出五花肉</description>
+                <starttime>00:03:00</starttime>
+                <endtime>00:03:30</endtime>
+            </step>
+            <step id="4">
+              <decription>五花肉用厨房纸吸水</description>
+              <starttime>00:03:30</starttime>
+              <endtime>00:04:30</endtime>
+            </step>
+            <step id="5">
+                <decription>煸五花肉</description>
+                <starttime>00:04:30</starttime>
+                <endtime>00:07:30</endtime>
+            </step>
+            <step id="6">
+                <decription>下葱姜蒜、大料和冰糖</description>
+                <starttime>00:07:30</starttime>
+                <endtime>00:08:00</endtime>
+            </step>
+            <step id="7">
+                <decription>下一锅铲的料酒和一锅铲的酱油</description>
+                <starttime>00:08:00</starttime>
+                <endtime>00:08:30</endtime>
+            </step>
+            <step id="8">
+                <decription>加入全部没过食材的水烧开</description>
+                <starttime>00:08:30</starttime>
+                <endtime>00:11:00</endtime>
+            <step id="9">
+                <decription>换入高压锅</description>
+                <starttime>00:11:00</starttime>
+                <endtime>00:31:00</endtime>
+            </step>
+            <step id="10">
+                <decription>换炒锅收汁</description>
+                <starttime>00:31:00</starttime>
+                <endtime>00:41:00</endtime>
+            </step>
+            <step id="11">
+                <decription>调味装盘</description>
+                <starttime>00:38:00</starttime>
+                <endtime>00:42:00</endtime>
+            </step>
+        </steps>
+    </recipe>
+    <recipe id="1">
+        <name>红烧肉</name>
+        <cook>郑成方</cook>
+        <difficulty>87</difficulty>
+        <ingredients>
+            <ingredient type="major">
+                <name>五花肉</name>
+                <quantity>500克</quantity>
+</recipes>
+
+you are writing this like shit
+you should always finish the pairs first and then into the content
+I don't know that
+now I know
+I'll give a try
+any other instructions?
+you know about auto complete?
+what do you think?
+fine with emmet there is no use of auto complete
+<recipe>
+  shit why are your tabs two-spaced?
+  I thought it should be 2
+  waht4is it supposed to be44444444444444
+  alright,any chance to change it
+</recipe>
+<recipe>
+    ok
+    let me try a bit
+</recipe>
+<recipe>
+    Wow
+</recipe>
+
+<recipes>
+    <recipe>
+        <name></name>
+    </recipe>
+    <recipe>
+        <name></name>
+    </recipe>
+    <recipe>
+        <name></name>
+    </recipe>
+    <recipe>
+        <name></name>
+    </recipe>
+</recipes>
+
+you can now play it for fun
+thanks
+goodbye world
