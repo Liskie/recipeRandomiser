@@ -228,11 +228,11 @@
         <steps>
             <step id="1">
                 <description>五花肉切片</description>
-                <starttime></starttime>
-                <endtime></endtime>
+                <starttime>00:00:00</starttime>
+                <endtime>00:01:30</endtime>
             </step>
             <step id="2">
-                <description></description>
+                <description>准备葱姜蒜</description>
                 <starttime></starttime>
                 <endtime></endtime>
             </step>
