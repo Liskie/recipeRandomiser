@@ -17,6 +17,10 @@
                 <quantity>2-3片</quantity>
             </ingredient>
             <ingredient type="minor">
+                <name>蒜</name>
+                <quantity>2-3瓣</quantity>
+            </ingredient>
+            <ingredient type="minor">
                 <name>八角</name>
                 <quantity>1颗</quantity>
             </ingredient>
@@ -102,15 +106,175 @@
             </step>
         </steps>
     </recipe>
-    <recipe id="1">
-        <name>红烧肉</name>
+    <recipe>
+        <name>炝包菜</name>
         <cook>郑成方</cook>
-        <difficulty>87</difficulty>
+        <difficulty>60</difficulty>
+        <ingredients>
+            <ingredient type="major">
+                <name>包菜</name>
+                <quantity>一头</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>葱</name>
+                <quantity>小拇指长</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>姜</name>
+                <quantity>两片</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>蒜</name>
+                <quantity>一瓣</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>八角</name>
+                <quantity>半个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>花椒</name>
+                <quantity>4-6粒</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>干辣椒</name>
+                <quantity>3-4个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>酱油</name>
+                <quantity>一锅铲</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>酱油</name>
+                <quantity>一锅铲</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <description>包菜撕成半个巴掌大</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="2">
+                <description>准备葱姜蒜和大料</description>
+                <starttime>00:05:00</starttime>
+                <endtime>00:07:00</endtime>
+            </step>
+            <step id="3">
+                <description>热油</description>
+                <starttime>00:07:00</starttime>
+                <endtime>00:09:00</endtime>
+            </step>
+            <step id="4">
+                <description>葱姜蒜大料爆香</description>
+                <starttime>00:09:00</starttime>
+                <endtime>00:09:20</endtime>
+            </step>
+            <step id="5">
+                <description>下包菜</description>
+                <starttime>00:09:20</starttime>
+                <endtime>00:10:00</endtime>
+            </step>
+            <step id="6">
+                <description>酱油和蚝油</description>
+                <starttime>00:10:00</starttime>
+                <endtime>00:10:10</endtime>
+            </step>
+            <step id="7">
+                <description>翻炒并尝味道</description>
+                <starttime>00:10:10</starttime>
+                <endtime>00:12:10</endtime>
+            </step>
+            <step id="8">
+                <description>出锅装盘</description>
+                <starttime>00:12:10</starttime>
+                <endtime>00:12:30</endtime>
+            </step>
+        </steps>
+    </recipe>
+    <recipe>
+        <name>青椒炒肉</name>
+        <cook>郑成方</cook>
+        <difficulty></difficulty>
         <ingredients>
             <ingredient type="major">
                 <name>五花肉</name>
-                <quantity>500克</quantity>
+                <quantity>250克</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>葱</name>
+                <quantity>小拇指长</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>姜</name>
+                <quantity>两片</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>蒜</name>
+                <quantity>2-3瓣</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>青椒</name>
+                <quantity>两个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>花椒</name>
+                <quantity>3-4粒</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>酱油</name>
+                <quantity>一锅铲</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <description></description>
+                <starttime></starttime>
+                <endtime></endtime>
+            </step>
+            <step id="2">
+                <description></description>
+                <starttime></starttime>
+                <endtime></endtime>
+            </step>
+            <step id="3">
+                <description></description>
+                <starttime></starttime>
+                <endtime></endtime>
+            </step>
+            <step id="4">
+                <description></description>
+                <starttime></starttime>
+                <endtime></endtime>
+            </step>
+            <step id="5">
+                <description></description>
+                <starttime></starttime>
+                <endtime></endtime>
+            </step>
+            <step id="6">
+                <description></description>
+                <starttime></starttime>
+                <endtime></endtime>
+            </step>
+            <step id="7">
+                <description></description>
+                <starttime></starttime>
+                <endtime></endtime>
+            </step>
+            <step id="8">
+                <description></description>
+                <starttime></starttime>
+                <endtime></endtime>
+            </step>
+            <step id="9">
+                <description></description>
+                <starttime></starttime>
+                <endtime></endtime>
+            </step>
+        </steps>
+    </recipe>
 </recipes>
+
 
 you are writing this like shit
 you should always finish the pairs first and then into the content
