@@ -194,7 +194,7 @@
     <recipe>
         <name>青椒炒肉</name>
         <cook>郑成方</cook>
-        <difficulty></difficulty>
+        <difficulty>50</difficulty>
         <ingredients>
             <ingredient type="major">
                 <name>五花肉</name>
@@ -229,47 +229,128 @@
             <step id="1">
                 <description>五花肉切片</description>
                 <starttime>00:00:00</starttime>
-                <endtime>00:01:30</endtime>
+                <endtime>00:02:30</endtime>
             </step>
             <step id="2">
-                <description>准备葱姜蒜</description>
-                <starttime></starttime>
-                <endtime></endtime>
+                <description>青椒去籽切段</description>
+                <starttime>00:02:30</starttime>
+                <endtime>00:04:30</endtime>
             </step>
             <step id="3">
-                <description></description>
-                <starttime></starttime>
-                <endtime></endtime>
+                <description>准备葱姜蒜</description>
+                <starttime>00:04:30</starttime>
+                <endtime>00:06:30</endtime>
             </step>
             <step id="4">
-                <description></description>
-                <starttime></starttime>
-                <endtime></endtime>
+                <description>热油</description>
+                <starttime>00:06:30</starttime>
+                <endtime>00:07:00</endtime>
             </step>
             <step id="5">
-                <description></description>
-                <starttime></starttime>
-                <endtime></endtime>
+                <description>下葱姜蒜</description>
+                <starttime>00:07:00</starttime>
+                <endtime>00:07:30</endtime>
             </step>
             <step id="6">
-                <description></description>
-                <starttime></starttime>
-                <endtime></endtime>
+                <description>下五花肉</description>
+                <starttime>00:07:30</starttime>
+                <endtime>00:08:30</endtime>
             </step>
             <step id="7">
-                <description></description>
-                <starttime></starttime>
-                <endtime></endtime>
+                <description>加酱油翻炒尝味道</description>
+                <starttime>00:08:30</starttime>
+                <endtime>00:09:30</endtime>
             </step>
             <step id="8">
-                <description></description>
-                <starttime></starttime>
-                <endtime></endtime>
+                <description>出锅</description>
+                <starttime>00:09:30</starttime>
+                <endtime>00:10:00</endtime>
+            </step>
+        </steps>
+    </recipe>
+    <recipe>
+        <name>醋溜白菜</name>
+        <cook>郑成方</cook>
+        <difficulty>50</difficulty>
+        <ingredients>
+            <ingredient type="major">
+                <name>大白菜</name>
+                <quantity>半棵</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>五花肉</name>
+                <quantity>7-8小片</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>葱</name>
+                <quantity>小拇指长一段</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>姜</name>
+                <quantity>2-3片</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>干辣椒</name>
+                <quantity>1-2个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>蒜</name>
+                <quantity>2瓣</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>酱油</name>
+                <quantity>一锅铲</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>醋</name>
+                <quantity>半锅铲</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <description>白菜切小拇指粗的丝</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:02:00</endtime>
+            </step>
+            <step id="2">
+                <description>五花肉切片</description>
+                <starttime>00:02:00</starttime>
+                <endtime>00:03:00</endtime>
+            </step>
+            <step id="3">
+                <description>热油</description>
+                <starttime>00:03:00</starttime>
+                <endtime>00:03:30</endtime>
+            </step>
+            <step id="4">
+                <description>下葱姜蒜</description>
+                <starttime>00:03:30</starttime>
+                <endtime>00:04:00</endtime>
+            </step>
+            <step id="5">
+                <description>下五花肉</description>
+                <starttime>00:04:30</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="6">
+                <description>下白菜</description>
+                <starttime>00:05:00</starttime>
+                <endtime>00:06:00</endtime>
+            </step>
+            <step id="7">
+                <description>加酱油</description>
+                <starttime>00:06:00</starttime>
+                <endtime>00:07:00</endtime>
+            </step>
+            <step id="8">
+                <description>加醋</description>
+                <starttime>00:07:00</starttime>
+                <endtime>00:07:30</endtime>
             </step>
             <step id="9">
-                <description></description>
-                <starttime></starttime>
-                <endtime></endtime>
+                <description>尝味道出锅</description>
+                <starttime>00:07:30</starttime>
+                <endtime>00:08:00</endtime>
             </step>
         </steps>
     </recipe>
