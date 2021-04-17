@@ -106,7 +106,7 @@
             </step>
         </steps>
     </recipe>
-    <recipe>
+    <recipe id="2">
         <name>炝包菜</name>
         <cook>郑成方</cook>
         <difficulty>60</difficulty>
@@ -191,7 +191,7 @@
             </step>
         </steps>
     </recipe>
-    <recipe>
+    <recipe id="3">
         <name>青椒炒肉</name>
         <cook>郑成方</cook>
         <difficulty>50</difficulty>
@@ -268,7 +268,7 @@
             </step>
         </steps>
     </recipe>
-    <recipe>
+    <recipe id="4">
         <name>醋溜白菜</name>
         <cook>郑成方</cook>
         <difficulty>50</difficulty>
@@ -351,6 +351,277 @@
                 <description>尝味道出锅</description>
                 <starttime>00:07:30</starttime>
                 <endtime>00:08:00</endtime>
+            </step>
+        </steps>
+    </recipe>
+    <recipe id="5">
+        <name>炒土豆丝</name>
+        <cook>郑成方</cook>
+        <ingredients>
+            <ingredient type="major">
+                <name>土豆</name>
+                <quantity>一大个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>葱</name>
+                <quantity>半个小拇指长</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>青椒</name>
+                <quantity>一个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>姜</name>
+                <quantity>两片</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>蒜</name>
+                <quantity>两瓣</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>花椒</name>
+                <quantity>两粒</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>干辣椒</name>
+                <quantity>两个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>酱油</name>
+                <quantity>一锅铲</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>醋</name>
+                <quantity>两小勺</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <description>处理土豆（去皮切丝）</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:03:00</endtime>
+            </step>
+            <step id="2">
+                <description>处理青椒（去籽切段）</description>
+                <starttime>00:03:00</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="3">
+                <description>准备葱姜蒜</description>
+                <starttime>00:05:00</starttime>
+                <endtime>00:06:00</endtime>
+            </step>
+            <step id="4">
+                <description>热油</description>
+                <starttime>00:06:00</starttime>
+                <endtime>00:07:00</endtime>
+            </step>
+            <step id="5">
+                <description>下葱姜蒜花椒和辣椒</description>
+                <starttime>00:07:00</starttime>
+                <endtime>00:07:30</endtime>
+            </step>
+            <step id="6">
+                <description>下土豆丝翻炒</description>
+                <starttime>00:07:30</starttime>
+                <endtime>00:08:30</endtime>
+            </step>
+            <step id="7">
+                <description>加酱油</description>
+                <starttime>00:08:30</starttime>
+                <endtime>00:09:30</endtime>
+            </step>
+            <step id="8">
+                <description>加醋尝味道</description>
+                <starttime>00:09:30</starttime>
+                <endtime>00:10:00</endtime>
+            </step>
+            <step id="9">
+                <description>出锅</description>
+                <starttime>00:10:00</starttime>
+                <endtime>00:10:20</endtime>
+            </step>
+        </steps>
+    </recipe>
+    <recipe id='6'>
+        <name>玉米排骨汤</name>
+        <cook>郑成方</cook>
+        <difficulty>70</difficulty>
+        <ingredients>
+            <ingredient type="major">
+                <name>排骨</name>
+                <quantity>500g</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>甜玉米</name>
+                <quantity>一个半</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>胡萝卜</name>
+                <quantity>半个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>葱</name>
+                <quantity>食指长度</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>姜</name>
+                <quantity>3-4片</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>蒜</name>
+                <quantity>3瓣</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>花椒</name>
+                <quantity>3-4粒</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>八角</name>
+                <quantity>1个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>盐</name>
+                <quantity>适量</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <description>排骨焯水</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:03:00</endtime>
+            </step>
+            <step id="2">
+                <description>准备葱姜蒜、大料、玉米和胡萝卜</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:03:00</endtime>
+            </step>
+            <step id="3">
+                <description>热油</description>
+                <starttime>00:03:00</starttime>
+                <endtime>00:03:30</endtime>
+            </step>
+            <step id="4">
+                <description>放入排骨和大料炒出香味</description>
+                <starttime>00:03:30</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="5">
+                <description>加水煮开</description>
+                <starttime>00:05:00</starttime>
+                <endtime>00:08:00</endtime>
+            </step>
+            <step id="6">
+                <description>将汤和排骨大料转移至汤锅并加水小火慢炖</description>
+                <starttime>00:08:00</starttime>
+                <endtime>00:28:00</endtime>
+            </step>
+            <step id="7">
+                <description>加入玉米和胡萝卜小火慢炖</description>
+                <starttime>00:28:00</starttime>
+                <endtime>00:48:00</endtime>
+            </step>
+            <step id="8">
+                <description>加盐尝味道</description>
+                <starttime>00:48:00</starttime>
+                <endtime>00:50:00</endtime>
+            </step>
+            <step id="9">
+                <description>出锅</description>
+                <starttime>00:50:00</starttime>
+                <endtime>00:50:20</endtime>
+            </step>
+        </steps>
+    </recipe>
+    <recipe id='7'>
+        <name>西红柿炒鸡蛋</name>
+        <cook>郑成方</cook>
+        <difficulty>30</difficulty>
+        <ingredients>
+            <ingredient type="major">
+                <name>西红柿</name>
+                <quantity>1个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>鸡蛋</name>
+                <quantity>3-4个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>葱</name>
+                <quantity>2cm长</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>姜</name>
+                <quantity>一片</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>蒜</name>
+                <quantity>1瓣</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>酱油</name>
+                <quantity>一锅铲</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>糖</name>
+                <quantity>2g</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <description>烧开一壶水</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="2">
+                <description>将西红柿顶部切十字口</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:01:00</endtime>
+            </step>
+            <step id="3">
+                <description>将西红柿放入开水中</description>
+                <starttime>00:05:00</starttime>
+                <endtime>00:06:00</endtime>
+            </step>
+            <step id="4">
+                <description>将西红柿去皮切块</description>
+                <starttime>00:06:00</starttime>
+                <endtime>00:07:00</endtime>
+            </step>
+            <step id="5">
+                <description>准备葱姜蒜</description>
+                <starttime>00:07:00</starttime>
+                <endtime>00:08:00</endtime>
+            </step>
+            <step id="6">
+                <description>热油</description>
+                <starttime>00:08:00</starttime>
+                <endtime>00:08:30</endtime>
+            </step>
+            <step id="7">
+                <description>下葱姜蒜爆香</description>
+                <starttime>00:08:30</starttime>
+                <endtime>00:08:50</endtime>
+            </step>
+            <step id="8">
+                <description>下西红柿翻炒</description>
+                <starttime>00:08:50</starttime>
+                <endtime>00:10:00</endtime>
+            </step>
+            <step id="9">
+                <description>打蛋并下锅</description>
+                <starttime>00:10:00</starttime>
+                <endtime>00:10:30</endtime>
+            </step>
+            <step id="10">
+                <description>加入酱油和糖翻炒</description>
+                <starttime>00:10:30</starttime>
+                <endtime>00:11:30</endtime>
+            </step>
+            <step id="11">
+                <description>出锅</description>
+                <starttime>00:11:30</starttime>
+                <endtime>00:11:50</endtime>
             </step>
         </steps>
     </recipe>
