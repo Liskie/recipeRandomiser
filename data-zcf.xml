@@ -625,6 +625,168 @@
             </step>
         </steps>
     </recipe>
+    <recipe id='8'>
+        <name>老干妈芦笋</name>
+        <cook>郑成方</cook>
+        <difficulty>40</difficulty>
+        <ingredients>
+            <ingredient type="major">
+                <name>芦笋</name>
+                <quantity>20根小芦笋</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>老干妈</name>
+                <quantity>两勺</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>蒜</name>
+                <quantity>三瓣</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>姜</name>
+                <quantity>两小片</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>醋</name>
+                <quantity>半锅铲</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <description>烧一锅水</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="2">
+                <description>将芦笋切成大拇指长的段</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:03:00</endtime>
+            </step>
+            <step id="3">
+                <description>准备姜蒜</description>
+                <starttime>00:03:00</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="4">
+                <description>热油</description>
+                <starttime>00:05:00</starttime>
+                <endtime>00:05:30</endtime>
+            </step>
+            <step id="5">
+                <description>下老干妈和姜蒜爆香</description>
+                <starttime>00:05:30</starttime>
+                <endtime>00:06:00</endtime>
+            </step>
+            <step id="6">
+                <description>下芦笋段翻炒</description>
+                <starttime>00:06:00</starttime>
+                <endtime>00:07:00</endtime>
+            </step>
+            <step id="7">
+                <description>加醋尝味道</description>
+                <starttime>00:07:00</starttime>
+                <endtime>00:07:30</endtime>
+            </step>
+            <step id="8">
+                <description>出锅</description>
+                <starttime>00:07:30</starttime>
+                <endtime>00:07:50</endtime>
+            </step>
+        </steps>
+    </recipe>
+    <recipe id='9'>
+        <name>可乐鸡翅</name>
+        <cook>郑成方</cook>
+        <difficulty>50</difficulty>
+        <ingredients>
+            <ingredient type="major">
+                <name>鸡翅</name>
+                <quantity>6个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>葱</name>
+                <quantity>2-3cm</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>姜</name>
+                <quantity>2-3片</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>蒜</name>
+                <quantity>2瓣</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>可乐</name>
+                <quantity>一塑料瓶</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>酱油</name>
+                <quantity>一锅铲</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <description>鸡翅焯水</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="2">
+                <description>准备葱姜蒜</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="3">
+                <description>用厨房纸将鸡翅上的水吸干</description>
+                <starttime>00:05:00</starttime>
+                <endtime>00:06:00</endtime>
+            </step>
+            <step id="4">
+                <description>热油</description>
+                <starttime>00:06:00</starttime>
+                <endtime>00:06:20</endtime>
+            </step>
+            <step id="5">
+                <description>煎鸡翅的一面</description>
+                <starttime>00:06:20</starttime>
+                <endtime>00:06:50</endtime>
+            </step>
+            <step id="6">
+                <description>煎鸡翅的另一面</description>
+                <starttime>00:06:50</starttime>
+                <endtime>00:07:20</endtime>
+            </step>
+            <step id="7">
+                <description>将锅里的油倒出</description>
+                <starttime>00:07:20</starttime>
+                <endtime>00:08:00</endtime>
+            </step>
+            <step id="8">
+                <description>加入葱姜蒜翻炒</description>
+                <starttime>00:08:00</starttime>
+                <endtime>00:09:00</endtime>
+            </step>
+            <step id="9">
+                <description>加入可乐和酱油小火煮</description>
+                <starttime>00:09:00</starttime>
+                <endtime>00:25:00</endtime>
+            </step>
+            <step id="10">
+                <description>尝味道</description>
+                <starttime>00:25:00</starttime>
+                <endtime>00:25:30</endtime>
+            </step>
+            <step id="11">
+                <description>大火收汁</description>
+                <starttime>00:25:30</starttime>
+                <endtime>00:28:30</endtime>
+            </step>
+            <step id="12">
+                <description>出锅</description>
+                <starttime>00:25:30</starttime>
+                <endtime>00:28:50</endtime>
+            </step>
+        </steps>
+    </recipe>
 </recipes>
 
 
