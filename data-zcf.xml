@@ -787,6 +787,135 @@
             </step>
         </steps>
     </recipe>
+    <recipe id='10'>
+        <name>滑蛋虾仁</name>
+        <cook>郑成方</cook>
+        <difficulty>60</difficulty>
+        <ingredients>
+            <ingredient type="major">
+                <name>虾仁</name>
+                <quantity>一盒</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>鸡蛋</name>
+                <quantity>3-4个</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>料酒</name>
+                <quantity>两勺</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>盐</name>
+                <quantity>2-4g</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>葱</name>
+                <quantity>1cm</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>胡椒粉</name>
+                <quantity>2g</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>糖</name>
+                <quantity>2g</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <description>将虾仁用料酒、胡椒粉和盐腌制</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:10:00</endtime>
+            </step>
+            <step id="2">
+                <description>打蛋</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:02:00</endtime>
+            </step>
+            <step id="3">
+                <description>将蛋液里加入料酒继续打</description>
+                <starttime>00:02:00</starttime>
+                <endtime>00:04:00</endtime>
+            </step>
+            <step id="4">
+                <description>将葱切成葱花</description>
+                <starttime>00:04:00</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="5">
+                <description>热油</description>
+                <starttime>00:10:00</starttime>
+                <endtime>00:11:00</endtime>
+            </step>
+            <step id="6">
+                <description>将虾仁和葱花倒入锅中翻炒</description>
+                <starttime>00:11:00</starttime>
+                <endtime>00:11:30</endtime>
+            </step>
+            <step id="7">
+                <description>倒入蛋液并加盐、糖</description>
+                <starttime>00:11:30</starttime>
+                <endtime>00:12:00</endtime>
+            </step>
+            <step id="8">
+                <description>关火翻炒并尝味道</description>
+                <starttime>00:12:00</starttime>
+                <endtime>00:15:00</endtime>
+            </step>
+            <step id="9">
+                <description>出锅</description>
+                <starttime>00:15:00</starttime>
+                <endtime>00:15:20</endtime>
+            </step>
+        </steps>
+    </recipe>
+    <recipe id='11'>
+        <name>泡面</name>
+        <cook>朱安琪</cook>
+        <difficulty>10</difficulty>
+        <ingredients>
+            <ingredient type="major">
+                <name>泡面</name>
+                <quantity>1包</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>鸡蛋</name>
+                <quantity>1个</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <description>烧开水</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="2">
+                <description>把泡面加入水中，煮软</description>
+                <starttime>00:05:00</starttime>
+                <endtime>00:08:00</endtime>
+            </step>
+            <step id="3">
+                <description>加入调料包</description>
+                <starttime>00:08:00</starttime>
+                <endtime>00:10:00</endtime>
+            </step>
+            <step id="4">
+                <description>加蛋</description>
+                <starttime>00:10:00</starttime>
+                <endtime>00:12:00</endtime>
+            </step>
+            <step id="5">
+                <description>出锅</description>
+                <starttime>00:12:00</starttime>
+                <endtime>00:12:20</endtime>
+            </step>
+            <step id="6">
+                <description></description>
+                <starttime>00:0:0</starttime>
+                <endtime>00:0:0</endtime>
+            </step>
+        </steps>
+    </recipe>
 </recipes>
 
 
