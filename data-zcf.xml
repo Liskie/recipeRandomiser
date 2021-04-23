@@ -909,10 +909,89 @@
                 <starttime>00:12:00</starttime>
                 <endtime>00:12:20</endtime>
             </step>
+        </steps>
+    </recipe>
+    <recipe id='12'>
+        <name>麻辣牛肉</name>
+        <cook>郑成方</cook>
+        <difficulty>30</difficulty>
+        <ingredients>
+            <ingredient type="major">
+                <name>牛肉</name>
+                <quantity>500g</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>火锅底料</name>
+                <quantity>半包</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>酱油</name>
+                <quantity>3锅铲</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>料酒</name>
+                <quantity>两锅铲</quantity>
+            </ingredient>
+            <ingredient type="minor">
+                <name>香菜</name>
+                <quantity>一小把</quantity>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step id="1">
+                <description>烧开一锅水</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="2">
+                <description>把牛肉切成3cm正方形</description>
+                <starttime>00:00:00</starttime>
+                <endtime>00:05:00</endtime>
+            </step>
+            <step id="3">
+                <description>牛肉加料酒下锅焯水</description>
+                <starttime>00:05:00</starttime>
+                <endtime>00:12:00</endtime>
+            </step>
+            <step id="4">
+                <description>将牛肉捞出用厨房纸将水擦干</description>
+                <starttime>00:12:00</starttime>
+                <endtime>00:15:00</endtime>
+            </step>
+            <step id="5">
+                <description>将火锅底料切成小块炒香</description>
+                <starttime>00:15:0</starttime>
+                <endtime>00:20:00</endtime>
+            </step>
             <step id="6">
-                <description></description>
-                <starttime>00:0:0</starttime>
-                <endtime>00:0:0</endtime>
+                <description>将牛肉下锅翻炒</description>
+                <starttime>00:20:00</starttime>
+                <endtime>00:23:00</endtime>
+            </step>
+            <step id="7">
+                <description>加入酱油翻炒</description>
+                <starttime>00:23:00</starttime>
+                <endtime>00:25:00</endtime>
+            </step>
+            <step id="8">
+                <description>加入没过牛肉的水开锅</description>
+                <starttime>00:25:00</starttime>
+                <endtime>00:30:00</endtime>
+            </step>
+            <step id="9">
+                <description>转移到炖锅里炖煮</description>
+                <starttime>00:30:00</starttime>
+                <endtime>03:30:00</endtime>
+            </step>
+            <step id="9">
+                <description>尝味道并调整</description>
+                <starttime>03:30:00</starttime>
+                <endtime>03:35:00</endtime>
+            </step>
+            <step id="9">
+                <description>出锅</description>
+                <starttime>03:35:00</starttime>
+                <endtime>03:35:20</endtime>
             </step>
         </steps>
     </recipe>
